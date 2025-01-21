@@ -1,20 +1,24 @@
-Tamper-Proof Certification: Blockchain's immutability ensures certificates cannot be altered or forged.
-Instant Verification: Easily validate the authenticity of any certificate in real-time.
-Global Access: Certificates are securely accessible from anywhere in the world.
+<h1>Certificate Generation and Validation Dapp</h1>
+
+1. <b>Tamper-Proof Certification</b>: Blockchain's immutability ensures certificates cannot be altered or forged.
+
+2. <b>Instant Verification</b>: Easily validate the authenticity of any certificate in real-time.
+
+3. <b>Global Access</b>: Certificates are securely accessible from anywhere in the world.
 
 
-How It Works :
-Institute Registration
+<h3>How It Works</h3> 
 
+<b>Institute Registration</b>
 Institutes start by registering on our platform.
 Provide essential details and documents for verification.
 Gain approval after rigorous checks by our portal and government authorities.
-Verification Process
 
+<b>Verification Process</b>
 Our team conducts a detailed verification process to ensure only legitimate institutions can issue certificates.
 Approved institutes receive a unique identity on the blockchain, ensuring traceability and authenticity.
-Certificate Generation
 
+<b>Certificate Generation</b>
 Authorized institutes can generate blockchain-secured certificates for their students or participants.
 Each certificate is assigned a unique cryptographic ID, ensuring it remains secure and tamper-proof.
 
